@@ -8,4 +8,4 @@ char c = '!';
 bool b = true;
 Console.WriteLine(d);
 Console.WriteLine(c);
-Console.WriteLineb);
+Console.WriteLine(b);
